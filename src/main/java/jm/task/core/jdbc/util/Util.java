@@ -24,6 +24,7 @@ public class Util {
             } catch (SQLException throwables) {
                 throwables.printStackTrace();
             }
+
         return connection;
     }
 
